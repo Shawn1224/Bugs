@@ -25,4 +25,9 @@
     }
 }
 ```
-  
+
+# React
+* Get store from anywhere
+
+  Use Component after store initialized
+  [Any way to pass store to connect()](https://github.com/reduxjs/react-redux/issues/390#issuecomment-221389608)
